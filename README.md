@@ -18,7 +18,7 @@ Maecenas id nunc ac enim finibus imperdiet. Nullam luctus sit amet sem eu suscip
 1. UP
 1. Haryana
 
-#### Bullets
+#### Bullet Points
 
 - Red
 - Green
